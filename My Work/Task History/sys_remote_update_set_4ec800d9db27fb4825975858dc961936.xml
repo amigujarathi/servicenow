@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-08-27 12:17:50">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<application_name>SR Task History</application_name>
+<application_scope>x_swre_tsk_history</application_scope>
+<application_version>1.0.1</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description> </description>
+<inserted/>
+<name>SR Task History_10July2019</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>10318839dba23bc025975858dc9619f0</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>4ec800d9db27fb4825975858dc961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_comments</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_comments" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Comments&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_comments&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;journal_input&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;4000&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-22 07:56:14&lt;/sys_created_on&gt;&lt;sys_id&gt;fa15d991dbf367407193f7b31d961912&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Comments&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_comments&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-22 07:56:14&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2040209934</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>02c800d9db27fb4825975858dc961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4762e0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Comments</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>60351d9192f3674074033c7fb7f0a028</update_guid>
+<update_guid_history>60351d9192f3674074033c7fb7f0a028:2040209934</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_6ca28e11db73af005a31fd161d9619ff</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>SRENEB</sys_created_by><sys_created_on>2019-02-22 11:14:45</sys_created_on><sys_id>6ca28e11db73af005a31fd161d9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Glide API: string utilities</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_scope_privilege_6ca28e11db73af005a31fd161d9619ff</sys_update_name><sys_updated_by>SRENEB</sys_updated_by><sys_updated_on>2019-02-22 11:14:45</sys_updated_on><target_name>Glide API: string utilities</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>324835169</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>02c8401ddb27fb4825975858dc96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476a60000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>Glide API: string utilities</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>e0a2ce11c973af00625787860e381601</update_guid>
+<update_guid_history>e0a2ce11c973af00625787860e381601:324835169</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_cffd1390db7beb005a31fd161d961934</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_swre_tsk_history.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:57</sys_created_on><sys_id>cffd1390db7beb005a31fd161d961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history.user</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_user_role_cffd1390db7beb005a31fd161d961934</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:19:57</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1205281825</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>02c8401ddb27fb4825975858dc96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae474d20000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>x_swre_tsk_history.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>8ffd1390de7beb0063c04d58136e1337</update_guid>
+<update_guid_history>8ffd1390de7beb0063c04d58136e1337:-1091220277</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;true&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:19:58&lt;/sys_created_on&gt;&lt;sys_id&gt;8ffd9390db7beb005a31fd161d96190f&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_swre_tsk_history_approval&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-22 08:38:28&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-876504664</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>06c800d9db27fb4825975858dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476820000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>07de995983f36740772fbbe41102f2d0</update_guid>
+<update_guid_history>07de995983f36740772fbbe41102f2d0:-876504664,5ffd9390587beb0054f240fcee6eb030:114264383</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_user_comments_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_user_comments" label="User comments" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_user_comments</element><help>This  field contains 256 characters of comments entered by Users. Please refer Activities for detailed comment.</help><hint>This  field contains 256 characters of comments entered by Users. Please refer Activities for detailed comment.</hint><label>User comments</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>User comments</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S4AXNZ</sys_created_by><sys_created_on>2019-04-22 07:53:15</sys_created_on><sys_id>805a4114db8dff007193f7b31d961948</sys_id><sys_mod_count>4</sys_mod_count><sys_name>User comments</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_user_comments_en</sys_update_name><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:46:27</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-519230545</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>06c8401ddb27fb4825975858dc96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae477320000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.User comments</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>62d2328686b1f300a273b3f33323ee4f</update_guid>
+<update_guid_history>62d2328686b1f300a273b3f33323ee4f:-519230545,ab1a6e8e5371f300c939505594a7640c:1975519913,b2e9ae4e7371f30041c1711a65c4a6a4:314900219,44b9a68e9d71f300697c3c7ad762a8c9:-21629155,8c5a4114cc8dff00b91d9ea68309854f:-636859153</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_control_4e2f9199dbf367407193f7b31d961924</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><edit_condition/><edit_default_filter/><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label>Approval History</label><link_condition/><link_roles/><list_edit_insert_row>false</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type>disabled</list_edit_type><name>change_request</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_drilldown_link>false</omit_drilldown_link><omit_edit_button>true</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>false</omit_links><omit_new_button>true</omit_new_button><related_list>x_swre_tsk_history_approval.u_task</related_list><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-22 08:41:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4e2f9199dbf367407193f7b31d961924</sys_id><sys_mod_count>0</sys_mod_count><sys_name>change_request</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_ui_list_control_4e2f9199dbf367407193f7b31d961924</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-22 08:41:39</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+<payload_hash>165938850</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>06c8401ddb27fb4825975858dc96190d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476910000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>change_request</table>
+<target_name>change_request</target_name>
+<type>List Control</type>
+<update_domain>global</update_domain>
+<update_guid>069f9d59e1f3674056d3a7410f12c139</update_guid>
+<update_guid_history>069f9d59e1f3674056d3a7410f12c139:47707367</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4ffd9390db7beb005a31fd161d961902</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:57</sys_created_on><sys_id>4ffd9390db7beb005a31fd161d961902</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_security_acl display_value="x_swre_tsk_history_approval">c3fd9390db7beb005a31fd161d961900</sys_security_acl><sys_update_name>sys_security_acl_role_4ffd9390db7beb005a31fd161d961902</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:19:57</sys_updated_on><sys_user_role display_value="x_swre_tsk_history.user" name="x_swre_tsk_history.user">cffd1390db7beb005a31fd161d961934</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1559824814</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>0ac8401ddb27fb4825975858dc96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae474e00000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>8bfd9390c27beb00146e3b095e71c504</update_guid>
+<update_guid_history>8bfd9390c27beb00146e3b095e71c504:-1559824814</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_approval_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_approval" label="Approval" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_approval</element><help/><hint/><label>Approval</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Approvals</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:23:47</sys_created_on><sys_id>1bde53d0db7beb005a31fd161d96190d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_approval_en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:23:47</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-165925570</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>0ec800d9db27fb4825975858dc961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475270000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Approval</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>9bde53d0f17beb006059836091dba985</update_guid>
+<update_guid_history>9bde53d0f17beb006059836091dba985:-165925570</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_c082e7d4db7beb005a31fd161d961959</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_swre_tsk_history_approval</description><name>x_swre_tsk_history_approval</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:39:41</sys_created_on><sys_id>c082e7d4db7beb005a31fd161d961959</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_security_acl_c082e7d4db7beb005a31fd161d961959</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1116755677</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>0ec8401ddb27fb4825975858dc96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475c80000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c082e7d44c7beb00b0a6e49b1bce015b</update_guid>
+<update_guid_history>c082e7d44c7beb00b0a6e49b1bce015b:1116755677</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_b6fd5390db7beb005a31fd161d96196f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Task Approval History</label><live_feed_enabled>false</live_feed_enabled><name>x_swre_tsk_history_approval</name><number_ref/><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:57</sys_created_on><sys_id>b6fd5390db7beb005a31fd161d96196f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Task Approval History</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_db_object_b6fd5390db7beb005a31fd161d96196f</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><update_access>false</update_access><user_role display_value="x_swre_tsk_history.user" name="x_swre_tsk_history.user">cffd1390db7beb005a31fd161d961934</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1924527277</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>42c800d9db27fb4825975858dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475d50000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>8082e7d4f57beb003094c29bb173275f</update_guid>
+<update_guid_history>8082e7d4f57beb003094c29bb173275f:1924527277,d3fd9390ab7beb009ef785cfd26a1d33:1602260345</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_task_state_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_task_state" label="Task state" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_task_state</element><help/><hint/><label>Task state</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Task states</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:26:35</sys_created_on><sys_id>948fd3d0db7beb005a31fd161d9619d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task state</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_task_state_en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:26:35</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-757491900</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>42c8401ddb27fb4825975858dc96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4758e0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Task state</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>9c8fdbd0a27beb0092db2ada604c4523</update_guid>
+<update_guid_history>9c8fdbd0a27beb0092db2ada604c4523:-757491900</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_efe16bd0db7beb005a31fd161d9619ff</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:37:38</sys_created_on><sys_id>efe16bd0db7beb005a31fd161d9619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval.approver_user</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_security_acl display_value="x_swre_tsk_history_approval">c3fd9390db7beb005a31fd161d961900</sys_security_acl><sys_update_name>sys_security_acl_role_efe16bd0db7beb005a31fd161d9619ff</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:37:38</sys_updated_on><sys_user_role display_value="approver_user" name="approver_user">debab85bff02110053ccffffffffffb6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>275570869</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>42c8401ddb27fb4825975858dc96190d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475ba0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval.approver_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>8202af94447beb00e24fe9cbe0236be1</update_guid>
+<update_guid_history>8202af94447beb00e24fe9cbe0236be1:275570869</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_comments_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_comments" label="Comments" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_comments</element><help/><hint/><label>Comments</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Comments</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-22 07:56:14</sys_created_on><sys_id>ac351d91dbf367407193f7b31d961922</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Comments</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_comments_en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-22 07:56:14</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1976949071</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>46c800d9db27fb4825975858dc96193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476380000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Comments</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>a4351d9184f36740e1bed70fc4c37e29</update_guid>
+<update_guid_history>a4351d9184f36740e1bed70fc4c37e29:1976949071</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4082e7d4db7beb005a31fd161d96195c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:39:41</sys_created_on><sys_id>4082e7d4db7beb005a31fd161d96195c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_security_acl display_value="x_swre_tsk_history_approval">c082e7d4db7beb005a31fd161d961959</sys_security_acl><sys_update_name>sys_security_acl_role_4082e7d4db7beb005a31fd161d96195c</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><sys_user_role display_value="x_swre_tsk_history.user" name="x_swre_tsk_history.user">cffd1390db7beb005a31fd161d961934</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-300042112</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>46c8401ddb27fb4825975858dc96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476150000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>cc82e7d4cc7beb0098788d3e4188475d</update_guid>
+<update_guid_history>cc82e7d4cc7beb0098788d3e4188475d:-300042112</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_user_comments</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_user_comments" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;User comments&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_user_comments&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;256&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S4AXNZ&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-04-22 07:53:15&lt;/sys_created_on&gt;&lt;sys_id&gt;f81a8dd0db8dff007193f7b31d961991&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;User comments&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_user_comments&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S4AXNZ&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-04-22 07:53:15&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-153585107</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>4ac800d9db27fb4825975858dc961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476d30000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.User comments</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>c45a4114b98dff001518b61d2d3f6d4d</update_guid>
+<update_guid_history>c45a4114b98dff001518b61d2d3f6d4d:-153585107</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_4c82e7d4db7beb005a31fd161d961946</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_swre_tsk_history_approval</description><name>x_swre_tsk_history_approval</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:39:41</sys_created_on><sys_id>4c82e7d4db7beb005a31fd161d961946</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_security_acl_4c82e7d4db7beb005a31fd161d961946</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1180972533</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>4ac8401ddb27fb4825975858dc96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476210000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>0482e7d4c27beb00613c389cc9392955</update_guid>
+<update_guid_history>0482e7d4c27beb00613c389cc9392955:-1180972533</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_assignment_group</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_assignment_group" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;edge_encryption_enabled=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Assignment group&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_assignment_group&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sys_user_group"&gt;sys_user_group&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:24:27&lt;/sys_created_on&gt;&lt;sys_id&gt;eeee93d0db7beb005a31fd161d9619a2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Assignment group&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_assignment_group&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-19 15:24:27&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1243206840</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>4ec800d9db27fb4825975858dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475480000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Assignment group</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>cd0fd3d0817beb00fe1490b7c08e2aca</update_guid>
+<update_guid_history>cd0fd3d0817beb00fe1490b7c08e2aca:1093275451</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_64a2ce11db73af005a31fd161d961902</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>SRENEB</sys_created_by><sys_created_on>2019-02-22 11:14:45</sys_created_on><sys_id>64a2ce11db73af005a31fd161d961902</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.insert</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_scope_privilege_64a2ce11db73af005a31fd161d961902</sys_update_name><sys_updated_by>SRENEB</sys_updated_by><sys_updated_on>2019-02-22 11:14:45</sys_updated_on><target_name>GlideRecord.insert</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>-215292351</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>4ec8401ddb27fb4825975858dc96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4769c0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>GlideRecord.insert</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>20a2ce117673af00ba3081df926dfe03</update_guid>
+<update_guid_history>20a2ce117673af00ba3081df926dfe03:-215292351</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_678ed159dbf367407193f7b31d9619c9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="678ed159dbf367407193f7b31d9619c9" sys_domain="global" table="x_swre_tsk_history_approval" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_task</element><position>0</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>06927686dbb1f3005a31fd161d9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_approval.approver</element><position>1</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>86927686dbb1f3005a31fd161d9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_approval.state</element><position>2</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>0a927686dbb1f3005a31fd161d9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>8a927686dbb1f3005a31fd161d9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_task_state</element><position>4</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>0e927686dbb1f3005a31fd161d9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_approval_type</element><position>5</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>8e927686dbb1f3005a31fd161d9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_assignment_group</element><position>6</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>02927686dbb1f3005a31fd161d9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>7</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>82927686dbb1f3005a31fd161d9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_user_comments</element><position>8</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>06927686dbb1f3005a31fd161d9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_comments</element><position>9</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>86927686dbb1f3005a31fd161d9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>10</position><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 08:45:20</sys_created_on><sys_id>0a927686dbb1f3005a31fd161d9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_swre_tsk_history_approval" sys_domain="global" view="Default view">678ed159dbf367407193f7b31d9619c9</sys_ui_section><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 08:45:20</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_swre_tsk_history_approval</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-22 08:37:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>678ed159dbf367407193f7b31d9619c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_overrides/><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_ui_section_678ed159dbf367407193f7b31d9619c9</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-22 08:37:07</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-270147701</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>4ec8401ddb27fb4825975858dc96190d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476730000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>4e92768603b1f3001b7575124a3c9ba7</update_guid>
+<update_guid_history>4e92768603b1f3001b7575124a3c9ba7:-270147701,13ffeec296b1f300088021cb55089f58:-984816437,976fe6c2c6b1f300c6393dfbbac64e31:-1623633668,675fa6c2bab1f300e46a85eed8b95979:-673414094,ef0fa2c2ecb1f3007b339e7137beb308:1302589730,ec7ee2822db1f3002338403eb7cf8de4:-854944750,615ea282a6b1f300e8967133fea0db7c:-661019821,93cd2e42f5b1f300e79796ff44237f4a:1844616560,aa9d6a4242b1f3004f9d9f00cc3ac41d:-1603421317,566da64241b1f300eb8543d2f4b67e8e:1125753465,d638a24e9a71f300f66a3fe153c66988:1798812756,405a4114ca8dff00c8c75a55c78f3f47:1542443070,29e80d905c8dff005ccb82355016ce7a:-1041815252,cdb28795113b6740477b1ff6de2220af:640527733,73820795fb3b6740a8ccaa63afcd4a8f:-318230791,d7124f55d33b6740381f64592896a394:1545590033,c7de995985f36740264e63ba4be7e3d3:-1342323876,6b8e555953f36740ef139d12544165d0:-394102258,6b8ed159bcf367402a7c470e520667cb:-1712014775</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_assignment_group_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_assignment_group" label="Assignment group" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_assignment_group</element><help/><hint/><label>Assignment group</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Assignment groups</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:24:27</sys_created_on><sys_id>450fd3d0db7beb005a31fd161d9619c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assignment group</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_assignment_group_en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:24:27</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-696909520</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>82c800d9db27fb4825975858dc96193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475320000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Assignment group</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>c10fd3d0df7beb00e8a6fe20fcd1fecc</update_guid>
+<update_guid_history>c10fd3d0df7beb00e8a6fe20fcd1fecc:-696909520</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_0882e7d4db7beb005a31fd161d961943</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:39:41</sys_created_on><sys_id>0882e7d4db7beb005a31fd161d961943</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_security_acl display_value="x_swre_tsk_history_approval">4082e7d4db7beb005a31fd161d961940</sys_security_acl><sys_update_name>sys_security_acl_role_0882e7d4db7beb005a31fd161d961943</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><sys_user_role display_value="x_swre_tsk_history.user" name="x_swre_tsk_history.user">cffd1390db7beb005a31fd161d961934</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1767191897</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>82c8401ddb27fb4825975858dc96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475fd0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>8482e7d4037beb00a16630b959844645</update_guid>
+<update_guid_history>8482e7d4037beb00a16630b959844645:-1767191897</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_task_state</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_task_state" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Task state&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_task_state&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:26:35&lt;/sys_created_on&gt;&lt;sys_id&gt;4e6f57d0db7beb005a31fd161d96191e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Task state&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_task_state&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-19 15:26:35&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1087025114</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>86c800d9db27fb4825975858dc961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4757e0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Task state</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>988fdbd0587beb0030c93843845e5f22</update_guid>
+<update_guid_history>988fdbd0587beb0030c93843845e5f22:-1087025114</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_4082e7d4db7beb005a31fd161d961940</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_swre_tsk_history_approval</description><name>x_swre_tsk_history_approval</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:39:41</sys_created_on><sys_id>4082e7d4db7beb005a31fd161d961940</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_security_acl_4082e7d4db7beb005a31fd161d961940</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1386417915</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>86c8401ddb27fb4825975858dc96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476090000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>4882e7d4137beb00567edd221db5af42</update_guid>
+<update_guid_history>4882e7d4137beb00567edd221db5af42:1386417915</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_approval_type</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_approval_type" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Approval type&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_approval_type&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:25:51&lt;/sys_created_on&gt;&lt;sys_id&gt;dd3f93d0db7beb005a31fd161d961987&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Approval type&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_approval_type&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-19 15:25:51&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1438012088</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>8ac800d9db27fb4825975858dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4756e0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Approval type</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a55fd7d0247beb0048dd711b154c5dad</update_guid>
+<update_guid_history>a55fd7d0247beb0048dd711b154c5dad:1438012088</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_50fe5959dbf367407193f7b31d9619f8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Task Approval History activity formatter fields</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.ui.x_swre_tsk_history_approval_activity.fields</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-22 08:38:49</sys_created_on><sys_id>50fe5959dbf367407193f7b31d9619f8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>glide.ui.x_swre_tsk_history_approval_activity.fields</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_properties_50fe5959dbf367407193f7b31d9619f8</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-22 15:51:22</sys_updated_on><type>string</type><value>u_comments</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=50fe5959dbf367407193f7b31d9619f8"/></record_update>]]></payload>
+<payload_hash>95634957</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>8ac8401ddb27fb4825975858dc96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476b50000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>glide.ui.x_swre_tsk_history_approval_activity.fields</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>f0f18b55853b6740acb0f14b9d1b2948</update_guid>
+<update_guid_history>f0f18b55853b6740acb0f14b9d1b2948:95634957,64fe1d59aaf367409c8282b18b114212:1904845673</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_x_swre_tsk_history_approval_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_swre_tsk_history_approval" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_approval.state</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>48ddb2a2db21bf007193f7b31d961976</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>c8ddb2a2db21bf007193f7b31d961976</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_approval.approver</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>4cddb2a2db21bf007193f7b31d961976</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_assignment_group</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>ccddb2a2db21bf007193f7b31d961976</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_task_state</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>40ddb2a2db21bf007193f7b31d961977</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_user_comments</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>c0ddb2a2db21bf007193f7b31d961977</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_comments</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b256f58db7beb005a31fd161d9619e6</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_id>44ddb2a2db21bf007193f7b31d961977</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_swre_tsk_history_approval</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-05-24 12:35:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4b256f58db7beb005a31fd161d9619e6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_ui_list_x_swre_tsk_history_approval_null</sys_update_name><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-05-24 12:35:36</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-1380937918</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>8ac8401ddb27fb4825975858dc96190d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae477050000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>c4ddb2a21d21bf00fd35ed6edfd76279</update_guid>
+<update_guid_history>c4ddb2a21d21bf00fd35ed6edfd76279:1390439569,018d7e627c21bf00af20893872433310:-1795748236,ac6dba625621bf0023b5b245393b2a31:1016599355,83def24e9ed17780f5c2dc1fbdaa1df6:-1168142551,fe9efe0e6ed1778065850fc5686b489a:-759882295,d58ebe0e8ed17780c2788dd9ad772519:1805446409,83256f58867beb005d4b862e009ac2ea:1625048503</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_9bfd9390db7beb005a31fd161d961934</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="SR Task Approval History">cffd1390db7beb005a31fd161d961931</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>SR Approval History</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_swre_tsk_history_approval</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_swre_tsk_history.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bfd9390db7beb005a31fd161d961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SR Approval History</sys_name><sys_overrides/><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_app_module_9bfd9390db7beb005a31fd161d961934</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:19:58</sys_updated_on><timeline_page/><title>SR Approval History</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1537682964</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>8ec800d9db27fb4825975858dc961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae474ed0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>SR Approval History</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>57fd9390527beb000be7f59dae655336</update_guid>
+<update_guid_history>57fd9390527beb000be7f59dae655336:1878347451</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_task_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_task" label="Task" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_task</element><help/><hint/><label>Task</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Tasks</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:25:06</sys_created_on><sys_id>1e2f17d0db7beb005a31fd161d961968</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_task_en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:25:06</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1927256386</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>8ec8401ddb27fb4825975858dc961909</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475530000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Task</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>162f57d0be7beb007d862347a17ea5f2</update_guid>
+<update_guid_history>162f57d0be7beb007d862347a17ea5f2:1927256386</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_a0e16314db7beb005a31fd161d961919</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:37:38</sys_created_on><sys_id>a0e16314db7beb005a31fd161d961919</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval.itil</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_security_acl display_value="x_swre_tsk_history_approval">c3fd9390db7beb005a31fd161d961900</sys_security_acl><sys_update_name>sys_security_acl_role_a0e16314db7beb005a31fd161d961919</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:37:38</sys_updated_on><sys_user_role display_value="itil" name="itil">be1fb5dfdb0c330025975858dc961975</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>44728690</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>8ec8401ddb27fb4825975858dc96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475ad0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval.itil</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>8e026794f47beb00b289445fcb1e3f64</update_guid>
+<update_guid_history>8e026794f47beb00b289445fcb1e3f64:696739842</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_76fd5390db7beb005a31fd161d96196f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="SR Task Approval History">cffd1390db7beb005a31fd161d961931</menu><name>SR Task History</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_swre_tsk_history</scope><scoped_administration>false</scoped_administration><short_description/><source>x_swre_tsk_history</source><store_correlation_id>REPOAPP0000103124</store_correlation_id><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:57</sys_created_on><sys_id>76fd5390db7beb005a31fd161d96196f</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-26 07:23:42</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_swre_tsk_history.user" name="x_swre_tsk_history.user">cffd1390db7beb005a31fd161d961934</user_role><vendor/><vendor_prefix/><version>1.0.1</version></sys_app></record_update>]]></payload>
+<payload_hash>-98959554</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c2c800d9db27fb4825975858dc961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4749f0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>SR Task History</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>8b14bda2e2bb2b40d614af23e4c8bfda</update_guid>
+<update_guid_history>8b14bda2e2bb2b40d614af23e4c8bfda:293941712,2614bda25bbb2b40be72b336ec86b273:35917266,6f26c759723b6740b6a462383c88430f:-293848495,07fd5390527beb00ff5bc03909ee29cb:-1408032385</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_task</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_task" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;edge_encryption_enabled=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Task&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;true&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_task&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="Task" name="task"&gt;task&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:25:06&lt;/sys_created_on&gt;&lt;sys_id&gt;001f5f90db7beb005a31fd161d961947&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Task&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_task&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-19 15:27:07&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>41958342</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c2c800d9db27fb4825975858dc961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475a10000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Task</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>00af1fd0657beb003e56ded4f9f223f1</update_guid>
+<update_guid_history>00af1fd0657beb003e56ded4f9f223f1:-1205231261,122f57d08f7beb00eac1ebdcedf681f1:-2079032152</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_62bf9fd0db7beb005a31fd161d9619b1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_swre_tsk_history.SRApprovalHistory&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;Approval History record should only be created using this Script include method 'createApprovalHistory'&lt;/description&gt;&lt;name&gt;SRApprovalHistory&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Approval History Helper class. Methods in this class should be used to create Approval History records from other applications
+ * 
+ * @class 
+ * @author Gurpreet Matharu [S7DHWK]
+ * @memberof global.module:sys_script_include
+ */
+var SRApprovalHistory = Class.create();
+SRApprovalHistory.prototype = /** @lends global.module:sys_script_include.SRApprovalHistory.prototype */ {
+	/**
+	 * Default initialize method
+	 * 
+	 * @returns {undefined}
+	 */
+	initialize: function() {
+	},
+
+	/**
+	 * Create Approval history record for a Task record
+	 * 
+	 * @param {String} taskSysId Sys ID of the Task
+	 * @param {String} approvalSysId Sys ID of the approval record
+	 * @param {String} groupSysId Sys ID of the group if the approval is provided as a group approval
+	 * @param {String} taskState Task State in which the approval was provided
+	 * @param {String} approvalType Type of approval provided
+	 * @param {String} comments Approval or Rejection comments
+	 * @returns {String} Sys ID of the approval history record created
+	 */
+	createApprovalHistory: function (taskSysId, approvalSysId, groupSysId, taskState, approvalType, comments) {
+		if (gs.nil(taskSysId)) {
+			return;
+		}
+		if (gs.nil(approvalSysId)) {
+			return;
+		}
+
+		try {
+			var taskApprovalHistoryRec = new GlideRecord('x_swre_tsk_history_approval');
+			taskApprovalHistoryRec.initialize();
+			taskApprovalHistoryRec.u_task = taskSysId;
+			taskApprovalHistoryRec.u_approval = approvalSysId;		
+			taskApprovalHistoryRec.u_task_state = taskState;
+			if (!gs.nil(groupSysId)) {
+				taskApprovalHistoryRec.u_assignment_group = groupSysId;
+			}
+			if (!gs.nil(approvalType)) {
+				taskApprovalHistoryRec.u_approval_type = approvalType;
+			}
+
+			if (!gs.nil(comments)) {
+				taskApprovalHistoryRec.u_comments = comments;
+				taskApprovalHistoryRec.u_user_comments = this._getUserComments(comments);
+
+			}
+			taskApprovalHistoryRec.insert();
+
+			var err = taskApprovalHistoryRec.getLastErrorMessage();
+			if (!gs.nil(err)) {
+				throw err;
+			}
+			return taskApprovalHistoryRec.getValue('sys_id');
+		}
+		catch (error) {
+			gs.error('Error while creating Approval History record: {0} : {1} : {2} \n{3}', [
+				taskSysId, 
+				approvalSysId, 
+				groupSysId, 
+				error
+			]);
+			return;
+		}
+	},
+
+	/**
+		 * Create the actual user comments by formating the comment
+		 * 
+		 * @param {String} journalEntry
+		 * @returns {String} Actual user comments 
+		 */
+	_getUserComments: function(journalEntry){
+		var journalEntryArray=journalEntry.split('\n\n');
+		var ignoreTextArray = [
+			'reply from:',
+			'Ref:',
+			'This e-mail, including attachments, is intended for the person'
+		];
+		var filteredArray = journalEntryArray.filter(function (emailLine) {
+			//gs.info(elm);
+			return ignoreTextArray.every(function (ignoreText) {
+				return emailLine.indexOf(ignoreText) == -1;
+			});
+		});
+		return filteredArray.join('\n');
+	},
+
+	type: 'SRApprovalHistory'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:34:01&lt;/sys_created_on&gt;&lt;sys_id&gt;62bf9fd0db7beb005a31fd161d9619b1&lt;/sys_id&gt;&lt;sys_mod_count&gt;18&lt;/sys_mod_count&gt;&lt;sys_name&gt;SRApprovalHistory&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_62bf9fd0db7beb005a31fd161d9619b1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S4AXNZ&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-05-09 06:59:59&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-441544195</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c2c8401ddb27fb4825975858dc96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476e10000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>SRApprovalHistory</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>6d21a479671d3380a7c40184ab409337</update_guid>
+<update_guid_history>6d21a479671d3380a7c40184ab409337:-441544195,bbf7ec6d5c5db3800ce787a13164f6eb:2100751192,ecbccced83d9b380d59b091eb724cddd:-2091226248,9197c02d77d9b380dcfadcccf50f0a4e:-413588922,db47c82d52d9b380d0f23a484f8f7505:-1300605097,ed0008e123d9b38057d64e6d037dddcb:1858032051,dde167196159b38031b0e80cdbd0b3e9:892639103,f2581b1d0919b3806fe00eebdd947120:1055785888,835d0791d019b3801812d1b42407c913:-1739468647,812487958fd5b380dee3240fe6b061f1:-1233157488,f5e3af85a0d9738040e130b6ce5d3a92:-754667523,487367852ed9738098788f59bf50335f:649941588,1012e3454ad97380c85e9c2d5f419424:-1519939271,c4060f19433b674053114768480075a7:-451674584,5ec58f194d3b674093e00e45993d64dd:1602006921,c26ed55596f36740da7baf2a5ead6cb5:-1882125846,6fb16b94937beb00d8aeb9cc48eb0feb:233038338,21516794747beb00b94eded36d612744:1066490707,8d31e394527beb00880bb15fb4524483:2055122649</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_ab1b2858dbc93b4025975858dc9619d0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_swre_tsk_history_approval</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:58</sys_created_on><sys_id>ab1b2858dbc93b4025975858dc9619d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>ua_table_licensing_config_ab1b2858dbc93b4025975858dc9619d0</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:19:58</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>731664753</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c2c8401ddb27fb4825975858dc96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae474f70000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>x_swre_tsk_history_approval</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_swre_tsk_history_approval_u_approval</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_approval" table="x_swre_tsk_history_approval"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;edge_encryption_enabled=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Approval&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_approval&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;x_swre_tsk_history_approval&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sysapproval_approver"&gt;sysapproval_approver&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;S7DHWK&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-02-19 15:23:47&lt;/sys_created_on&gt;&lt;sys_id&gt;efbedf90db7beb005a31fd161d9619d7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Approval&lt;/sys_name&gt;&lt;sys_package display_value="SR Task History" source="x_swre_tsk_history"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SR Task History"&gt;76fd5390db7beb005a31fd161d96196f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_swre_tsk_history_approval_u_approval&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;S7DHWK&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-02-19 15:23:47&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1509793740</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c6c800d9db27fb4825975858dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475140000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Approval</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>97de53d03f7beb005e1126c028955884</update_guid>
+<update_guid_history>97de53d03f7beb005e1126c028955884:-1983473457</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Task Approval History" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Task Approval History</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Task Approval Histories</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:58</sys_created_on><sys_id>9ffd9390db7beb005a31fd161d961916</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Task Approval History</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval__en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>425747653</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c6c8401ddb27fb4825975858dc96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475df0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>8482e7d4367beb008fc26c0150cdf13e</update_guid>
+<update_guid_history>8482e7d4367beb008fc26c0150cdf13e:425747653,53fd93903c7beb003167a01d30f2c532:-1511319855</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_x_swre_tsk_history_approval_change_request_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="change_request" relationship="" sys_domain="global" table="x_swre_tsk_history_approval" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_approval.state</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="change_request" relationship="NULL" sys_domain="global" view="Default view">c1d379a2dbbb2b407193f7b31d961918</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_id>f3e72e0edb71f3005a31fd161d9619ea</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="change_request" relationship="NULL" sys_domain="global" view="Default view">c1d379a2dbbb2b407193f7b31d961918</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_id>bbe72e0edb71f3005a31fd161d9619ea</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_approval.approver</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="change_request" relationship="NULL" sys_domain="global" view="Default view">c1d379a2dbbb2b407193f7b31d961918</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_id>3fe72e0edb71f3005a31fd161d9619ea</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_assignment_group</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="change_request" relationship="NULL" sys_domain="global" view="Default view">c1d379a2dbbb2b407193f7b31d961918</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_id>bfe72e0edb71f3005a31fd161d9619ea</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_task_state</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="change_request" relationship="NULL" sys_domain="global" view="Default view">c1d379a2dbbb2b407193f7b31d961918</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_id>33e72e0edb71f3005a31fd161d9619eb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_user_comments</element><list_id display_value="x_swre_tsk_history_approval" element="NULL" name="x_swre_tsk_history_approval" parent="change_request" relationship="NULL" sys_domain="global" view="Default view">c1d379a2dbbb2b407193f7b31d961918</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_id>b3e72e0edb71f3005a31fd161d9619eb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_swre_tsk_history_approval</name><parent>change_request</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>S4GRV8</sys_created_by><sys_created_on>2019-06-04 07:58:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c1d379a2dbbb2b407193f7b31d961918</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_ui_list_x_swre_tsk_history_approval_change_request_null</sys_update_name><sys_updated_by>S4GRV8</sys_updated_by><sys_updated_on>2019-06-04 07:58:45</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-1509168839</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>c6c8401ddb27fb4825975858dc96190d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae477230000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Change Request.Task Approval History</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>37e72e0e1d71f300f183878700b8a5ed</update_guid>
+<update_guid_history>37e72e0e1d71f300f183878700b8a5ed:1553858259,dbbdfe624421bf00e56d0ec433c901bc:171177916,115d3a623021bf007cf0c8a4a222056e:576502222,638d7ecabfd17780857ff4d4a7f4d794:-861745827,0dd379a287bb2b40c48a1bf0123c991b:105376649,8d914755463b6740ef9348023361ca08:-706494316,6f10ed999cf367405860a81cf39a9eb9:-957768585</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_cffd1390db7beb005a31fd161d961931</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>SR Task Approval History</name><order/><roles>admin,x_swre_tsk_history.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cffd1390db7beb005a31fd161d961931</sys_id><sys_mod_count>3</sys_mod_count><sys_name>SR Task Approval History</sys_name><sys_overrides/><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_app_application_cffd1390db7beb005a31fd161d961931</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-22 16:09:52</sys_updated_on><title>SR Task Approval History</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-142532243</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>cac800d9db27fb4825975858dc961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae476c10000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table/>
+<target_name>SR Task Approval History</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>2326c759103b6740264bd60553e31714</update_guid>
+<update_guid_history>2326c759103b6740264bd60553e31714:-142532243,be4e1b10bb7beb008d1bdf49bdebc27e:-1785754950,cbfd5390e07beb001bd57dd5db4573ce:2069952752,4bfd1390587beb00b3156fefc3a4b633:764807753</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_8082e7d4db7beb005a31fd161d961956</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:39:41</sys_created_on><sys_id>8082e7d4db7beb005a31fd161d961956</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_security_acl display_value="x_swre_tsk_history_approval">4c82e7d4db7beb005a31fd161d961946</sys_security_acl><sys_update_name>sys_security_acl_role_8082e7d4db7beb005a31fd161d961956</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:39:41</sys_updated_on><sys_user_role display_value="x_swre_tsk_history.user" name="x_swre_tsk_history.user">cffd1390db7beb005a31fd161d961934</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-827593888</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>cac8401ddb27fb4825975858dc96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae475f20000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval.x_swre_tsk_history.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>0082e7d4c87beb00f33d8f2334bb5d58</update_guid>
+<update_guid_history>0082e7d4c87beb00f33d8f2334bb5d58:-827593888</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_swre_tsk_history_approval_u_approval_type_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_approval_type" label="Approval type" language="en" table="x_swre_tsk_history_approval"><sys_documentation action="INSERT_OR_UPDATE"><element>u_approval_type</element><help/><hint/><label>Approval type</label><language>en</language><name>x_swre_tsk_history_approval</name><plural>Approval types</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:25:51</sys_created_on><sys_id>2d5fd7d0db7beb005a31fd161d9619a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval type</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_documentation_x_swre_tsk_history_approval_u_approval_type_en</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:25:51</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>556201644</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>cec800d9db27fb4825975858dc961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae4755d0000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>Task Approval History.Approval type</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>a95fd7d08b7beb006cc8cfb5836e19ae</update_guid>
+<update_guid_history>a95fd7d08b7beb006cc8cfb5836e19ae:556201644</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_c3fd9390db7beb005a31fd161d961900</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_swre_tsk_history_approval</description><name>x_swre_tsk_history_approval</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>S7DHWK</sys_created_by><sys_created_on>2019-02-19 15:19:57</sys_created_on><sys_id>c3fd9390db7beb005a31fd161d961900</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_swre_tsk_history_approval</sys_name><sys_package display_value="SR Task History" source="x_swre_tsk_history">76fd5390db7beb005a31fd161d96196f</sys_package><sys_policy/><sys_scope display_value="SR Task History">76fd5390db7beb005a31fd161d96196f</sys_scope><sys_update_name>sys_security_acl_c3fd9390db7beb005a31fd161d961900</sys_update_name><sys_updated_by>S7DHWK</sys_updated_by><sys_updated_on>2019-02-19 15:19:57</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>484245703</payload_hash>
+<remote_update_set display_value="SR Task History_10July2019">4ec800d9db27fb4825975858dc961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>S4AXNZ</sys_created_by>
+<sys_created_on>2019-08-27 12:17:50</sys_created_on>
+<sys_id>cec8401ddb27fb4825975858dc96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16bdae474c30000001</sys_recorded_at>
+<sys_updated_by>S4AXNZ</sys_updated_by>
+<sys_updated_on>2019-08-27 12:17:50</sys_updated_on>
+<table>x_swre_tsk_history_approval</table>
+<target_name>x_swre_tsk_history_approval</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>83fd9390b87beb005a186080d2b8ba02</update_guid>
+<update_guid_history>83fd9390b87beb005a186080d2b8ba02:484245703</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
